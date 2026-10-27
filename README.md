@@ -4,7 +4,7 @@
 
 
 
-![Market Overview](images/dashboard_market_overview.jpg)
+![Market Overview](Power BI/Market Overview.jpg)
 
 ---
 
