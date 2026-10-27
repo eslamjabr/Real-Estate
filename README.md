@@ -159,17 +159,18 @@ erDiagram
 ### 1. Market Overview
 KPI cards, average price by property type and price category, top 10 cities by average price, payment-method split, and average price per m² by governorate.
 
-![Market Overview](images/dashboard_market_overview.jpg)
+![Market Overview](Power%20BI/Market%20Overview.jpg)
+
 
 ### 2. Property & Location Analysis
 Average price by governorate, price / size / price-per-m² by property type, and property distribution across governorates.
 
-![Property & Location Analysis](images/dashboard_property_location.jpg)
+![Property & Location Analysis](Power%20BI/Property%20&%20Location%20Analysis.jpg)
 
 ### 3. Details
 Drill-through table with governorate, city, compound, district, payment method, year, bedrooms, bathrooms, price, price per m², maid room, and down payment.
 
-![Details](images/dashboard_details.jpg)
+![Details](Power%20BI/Details.jpg)
 
 **Interactivity:** slicers for Governorate, Property Type, Payment Method, and Price Category, plus a one-click reset.
 
