@@ -220,7 +220,7 @@ Drill-through table with governorate, city, compound, district, payment method, 
 
 ## 👤 Author
 
-**[Eslam jabr]**  
+**Eslam jabr**  
 Computer Science student · Data Analyst  
 📫 [LinkedIn](https://www.linkedin.com/in/eslamjabr/) · [GitHub](https://github.com/eslamjabr) · Eslamjabr55@gmail.com
 
